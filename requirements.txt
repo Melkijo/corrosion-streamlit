@@ -2,3 +2,4 @@ joblib
 pillow
 numpy
 scikit-image
+sklearn
