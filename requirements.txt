@@ -1,13 +1,7 @@
 joblib
-Image
-ImageOps
+pillow
 numpy
 os
-feature
-graycomatrix
-graycoprops
-io
-color
-img_as_ubyte
-groupby
-streamlit 
+scikit-image
+itertools
+streamlit
