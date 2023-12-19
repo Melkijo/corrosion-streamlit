@@ -477,7 +477,7 @@ else:
     with col2:
         st.write("LBP")
         st.image(image_path, width=250)
-        glrlm_prediction(image_path)
+        lbp_prediction(image_path)
     with col3:
         st.write("GLRLM")
         st.image(image_path, width=250)
