@@ -1,0 +1,13 @@
+joblib
+Image
+ImageOps
+numpy
+os
+feature
+graycomatrix
+graycoprops
+io
+color
+img_as_ubyte
+groupby
+streamlit 
