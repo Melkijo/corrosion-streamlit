@@ -193,7 +193,7 @@ class getGrayRumatrix:
 
 def result(prediction):
     if prediction[0] == 0:
-        st.write("HASIL PREDIKSI: Corrosion")
+        st.write("HASIL PREDIKSI: Corrosions")
         # print("HASIL PREDIKSI: Corrosion")
     else:
         st.write("HASIL PREDIKSI: NoCorrosion")
